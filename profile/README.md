@@ -1,4 +1,4 @@
-# Biplex Studio
+# Håper Studio
 <div align="center">
-	<img src="https://github.com/BiplexStudio/.github/blob/main/profile/img/label.svg" width="100%" height="auto">
+	<img src="https://github.com/HaperStudio/.github/blob/main/profile/img/haperstudiobanner2.png" width="100%" height="auto">
 </div>
